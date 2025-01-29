@@ -17,4 +17,4 @@ En esta carpeta se debe crear un fichero con la documentación básica (diseño,
 
 El primer archivo con el código debe tener la versión 0.0.
 
-Después de cada merge, la versión del archivo en su nombre debe cambiarse. 
+Después de cada merge, la versión del programa debe cambiarse. 
