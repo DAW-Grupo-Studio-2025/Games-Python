@@ -1,5 +1,6 @@
 ##Hola Kate, genial, lo unico que te puedo sugerir es que controles cuando el usuario ingrese un digito mayor al rango.
 
+#genial, muy bien resuelto 
 
 def DisplayBoard(board):
     for i in board: 
